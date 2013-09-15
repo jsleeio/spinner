@@ -1,3 +1,6 @@
+/* spin a thing on stderr while streaming stdin => stdout */
+/* Public domain. Do as you will! See LICENSE for long boring version. */
+/* John Slee <john@slee.id.au> Sun 15 Sep 2013 23:20:34 MYT */
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
